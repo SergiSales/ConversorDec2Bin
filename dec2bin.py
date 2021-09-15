@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> # ------------------------------------------------------
+=======
+# ------------------------------------------------------
+>>>>>>> a126c6f303cf956bae1916936e9fd492f164e2b1
 # Convierte un número decimal positivo a binario usando un 
 #   determinado número de bits.
 # El binario resultante es un string e.g. "101"
@@ -29,4 +33,8 @@ if __name__ == "__main__":
 
     # Muestra por pantalla el resultado.
     # Para imprimir un entero es necesario convertirlo a string con str()
+<<<<<<< HEAD
     print("El numero " + str(numero_decimal) + " es " + numero_binario + " en binario con " + str(numero_bits) + " bits.")
+=======
+    print("El numero " + str(numero_decimal) + " es " + numero_binario + " en binario con " + str(numero_bits) + " bits.")
+>>>>>>> a126c6f303cf956bae1916936e9fd492f164e2b1
